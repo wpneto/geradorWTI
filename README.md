@@ -1,4 +1,4 @@
-# geradorWTI
+# Gerador de Massa de Dados WTI
 
 Público-alvo
 - O software Gerador Prime foi desenvolvido com o propósito de ser utilizado SOMENTE pelas equipes de testes de software, que necessitam gerar massa de dados para execução de testes manuais e automatizados.
